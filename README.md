@@ -60,6 +60,6 @@ If you find this useful, give it a ⭐️ and share it with the community.
 
 🧵 Contact
 
-Connect with me on <a href="[[https://www.linkedin.com/in/sibghat-dev](https://teams.live.com/l/message/19:uni01_tkh7ufnle7xoxuenqaa53j235wlfrcwsehyjyy23vdyaajyqdnpq@thread.v2/1753702615855?context=%7B%22contextType%22%3A%22chat%22%7D)](https://www.linkedin.com/in/raja-sibghat-ullah-4967811b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">LinkedIn</a>  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/raja-sibghat-ullah-4967811b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 Open to collaborations and improvements!
 
