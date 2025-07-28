@@ -8,6 +8,7 @@ This repository aims to help Android developers integrate in-app billing with **
 
 ## ✨ Features
 
+- 💳 Supports Google Play Billing Client v8.0.0
 - 🔄 One-Time Purchase Support  
 - 🧠 MVVM + UseCase Pattern  
 - 🧱 Clean architecture layers  
