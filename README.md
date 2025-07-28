@@ -58,8 +58,10 @@ This repository aims to help Android developers integrate in-app billing with **
 Contributions, issues, and pull requests are welcome!
 If you find this useful, give it a ⭐️ and share it with the community.
 
-🧵 Contact
+## 🧵 Contact
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/raja-sibghat-ullah-4967811b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 Open to collaborations and improvements!
+
 
